@@ -1,2 +1,2 @@
 # Tag-Sheet
-Tag management code at google sheet
+Tag code at google sheet
